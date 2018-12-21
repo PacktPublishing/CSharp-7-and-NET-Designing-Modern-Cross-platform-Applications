@@ -1,2 +1,26 @@
 # Csharp7-and-.NET-Designing-Modern-Cross-platform-Applications
 The Open Source revolution of .NET Core
+
+C# is a widely used programming language, thanks to its easy learning curve, versatility, and support for modern paradigms. The language is used to create desktop apps, background services, web apps, and mobile apps. .NET Core is open source and compatible with Mac OS and Linux. There is no limit to what you can achieve with C# and .NET Core.
+
+This Learning Path begins with the basics of C# and object-oriented programming (OOP) and explores features of C#, such as tuples, pattern matching, and out variables. You will understand.NET Standard 2.0 class libraries and ASP.NET Core 2.0, and create professional websites, services, and applications. You will become familiar with mobile app development using Xamarin.Forms and learn to develop high-performing applications by writing optimized code with various profiling techniques.
+
+By the end of C# 7 and .NET: Designing Modern Cross-platform Applications, you will have all the knowledge required to build modern, cross-platform apps using C# and .NET.
+
+
+## What you will learn:
+* Explore ASP.NET Core to create professional web applications
+* Master OOP with C# to increase code reusability and efficiency
+* Protect your data using encryption and hashing
+* Measure application performance using BenchmarkDotNet
+* Use design techniques to increase your application’s performance
+* Learn memory management techniques in .NET Core
+* Understand tools and techniques to monitor application performance
+
+**The readers should be equipped with the following configurations of the environment:**
+
+* Visual Studio 2017 on Windows 10
+* Visual Studio for Mac on macOS
+* Visual Studio Code on Windows 10 or macOS
+* Visual Studio 2015/2017 Community Edition
+* .NET Core
