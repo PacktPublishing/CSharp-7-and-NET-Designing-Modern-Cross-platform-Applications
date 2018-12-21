@@ -1,5 +1,4 @@
-# Csharp7-and-.NET-Designing-Modern-Cross-platform-Applications
-The Open Source revolution of .NET Core
+# CSharp 7 and .NET Designing Modern Cross-platform Applications
 
 C# is a widely used programming language, thanks to its easy learning curve, versatility, and support for modern paradigms. The language is used to create desktop apps, background services, web apps, and mobile apps. .NET Core is open source and compatible with Mac OS and Linux. There is no limit to what you can achieve with C# and .NET Core.
 
