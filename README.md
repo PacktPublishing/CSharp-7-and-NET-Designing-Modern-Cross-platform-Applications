@@ -16,6 +16,11 @@ By the end of C# 7 and .NET: Designing Modern Cross-platform Applications, you w
 * Learn memory management techniques in .NET Core
 * Understand tools and techniques to monitor application performance
 
+
+**Extract [TestBenchmark File](https://github.com/PacktPublishing/CSharp-7-and-NET-Designing-Modern-Cross-platform-Applications/blob/master/Module%202/Chapter02/Code/Code/ConsoleAppChapter2/ConsoleAppChapter2/BenchmarkDotNet.Artifacts/TestBenchmark.zip) before using the code.
+
+      *
+
 **The readers should be equipped with the following configurations of the environment:**
 
 * Visual Studio 2017 on Windows 10
