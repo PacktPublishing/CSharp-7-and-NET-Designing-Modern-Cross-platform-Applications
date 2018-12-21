@@ -1,0 +1,11 @@
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter8\Chapter8\Chapter8\bin\Debug\netcoreapp2.0\UserRegService.deps.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter8\Chapter8\Chapter8\bin\Debug\netcoreapp2.0\UserRegService.runtimeconfig.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter8\Chapter8\Chapter8\bin\Debug\netcoreapp2.0\UserRegService.runtimeconfig.dev.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter8\Chapter8\Chapter8\bin\Debug\netcoreapp2.0\UserRegService.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter8\Chapter8\Chapter8\bin\Debug\netcoreapp2.0\UserRegService.pdb
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter8\Chapter8\Chapter8\obj\Debug\netcoreapp2.0\UserRegService.csprojResolveAssemblyReference.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter8\Chapter8\Chapter8\obj\Debug\netcoreapp2.0\UserRegService.csproj.CoreCompileInputs.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter8\Chapter8\Chapter8\obj\Debug\netcoreapp2.0\UserRegService.AssemblyInfoInputs.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter8\Chapter8\Chapter8\obj\Debug\netcoreapp2.0\UserRegService.AssemblyInfo.cs
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter8\Chapter8\Chapter8\obj\Debug\netcoreapp2.0\UserRegService.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter8\Chapter8\Chapter8\obj\Debug\netcoreapp2.0\UserRegService.pdb

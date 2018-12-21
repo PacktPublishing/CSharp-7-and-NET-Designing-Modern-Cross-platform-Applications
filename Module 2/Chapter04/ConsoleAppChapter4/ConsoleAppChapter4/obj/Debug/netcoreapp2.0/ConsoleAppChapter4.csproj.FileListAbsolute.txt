@@ -1,0 +1,11 @@
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter4\Chapter4\ConsoleAppChapter4\ConsoleAppChapter4\obj\Debug\netcoreapp2.0\ConsoleAppChapter4.csprojResolveAssemblyReference.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter4\Chapter4\ConsoleAppChapter4\ConsoleAppChapter4\obj\Debug\netcoreapp2.0\ConsoleAppChapter4.csproj.CoreCompileInputs.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter4\Chapter4\ConsoleAppChapter4\ConsoleAppChapter4\obj\Debug\netcoreapp2.0\ConsoleAppChapter4.AssemblyInfoInputs.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter4\Chapter4\ConsoleAppChapter4\ConsoleAppChapter4\obj\Debug\netcoreapp2.0\ConsoleAppChapter4.AssemblyInfo.cs
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter4\Chapter4\ConsoleAppChapter4\ConsoleAppChapter4\bin\Debug\netcoreapp2.0\ConsoleAppChapter4.deps.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter4\Chapter4\ConsoleAppChapter4\ConsoleAppChapter4\bin\Debug\netcoreapp2.0\ConsoleAppChapter4.runtimeconfig.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter4\Chapter4\ConsoleAppChapter4\ConsoleAppChapter4\bin\Debug\netcoreapp2.0\ConsoleAppChapter4.runtimeconfig.dev.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter4\Chapter4\ConsoleAppChapter4\ConsoleAppChapter4\bin\Debug\netcoreapp2.0\ConsoleAppChapter4.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter4\Chapter4\ConsoleAppChapter4\ConsoleAppChapter4\bin\Debug\netcoreapp2.0\ConsoleAppChapter4.pdb
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter4\Chapter4\ConsoleAppChapter4\ConsoleAppChapter4\obj\Debug\netcoreapp2.0\ConsoleAppChapter4.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter4\Chapter4\ConsoleAppChapter4\ConsoleAppChapter4\obj\Debug\netcoreapp2.0\ConsoleAppChapter4.pdb

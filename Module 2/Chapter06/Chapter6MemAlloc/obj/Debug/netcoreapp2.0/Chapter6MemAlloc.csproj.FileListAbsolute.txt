@@ -1,0 +1,11 @@
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter6\Chapter6\Chapter6MemAlloc\bin\Debug\netcoreapp2.0\Chapter6MemAlloc.deps.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter6\Chapter6\Chapter6MemAlloc\bin\Debug\netcoreapp2.0\Chapter6MemAlloc.runtimeconfig.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter6\Chapter6\Chapter6MemAlloc\bin\Debug\netcoreapp2.0\Chapter6MemAlloc.runtimeconfig.dev.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter6\Chapter6\Chapter6MemAlloc\bin\Debug\netcoreapp2.0\Chapter6MemAlloc.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter6\Chapter6\Chapter6MemAlloc\bin\Debug\netcoreapp2.0\Chapter6MemAlloc.pdb
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter6\Chapter6\Chapter6MemAlloc\obj\Debug\netcoreapp2.0\Chapter6MemAlloc.csproj.CoreCompileInputs.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter6\Chapter6\Chapter6MemAlloc\obj\Debug\netcoreapp2.0\Chapter6MemAlloc.AssemblyInfoInputs.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter6\Chapter6\Chapter6MemAlloc\obj\Debug\netcoreapp2.0\Chapter6MemAlloc.AssemblyInfo.cs
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter6\Chapter6\Chapter6MemAlloc\obj\Debug\netcoreapp2.0\Chapter6MemAlloc.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter6\Chapter6\Chapter6MemAlloc\obj\Debug\netcoreapp2.0\Chapter6MemAlloc.pdb
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter6\Chapter6\Chapter6MemAlloc\obj\Debug\netcoreapp2.0\Chapter6MemAlloc.csprojResolveAssemblyReference.cache

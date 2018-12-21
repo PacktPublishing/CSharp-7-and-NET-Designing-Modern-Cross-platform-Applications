@@ -1,0 +1,5 @@
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter4\Chapter4\ConsoleAppChapter4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter4\Chapter4\ConsoleAppChapter4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter4\Chapter4\ConsoleAppChapter4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter4\Chapter4\ConsoleAppChapter4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter4\Chapter4\ConsoleAppChapter4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
