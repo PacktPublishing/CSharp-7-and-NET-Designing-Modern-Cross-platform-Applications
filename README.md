@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Course for only $5 on PacktPub.com](https://www.packtpub.com/product/c-7-and-net-designing-modern-cross-platform-applications/9781789956696)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # CSharp 7 and .NET Designing Modern Cross-platform Applications
 
 C# is a widely used programming language, thanks to its easy learning curve, versatility, and support for modern paradigms. The language is used to create desktop apps, background services, web apps, and mobile apps. .NET Core is open source and compatible with Mac OS and Linux. There is no limit to what you can achieve with C# and .NET Core.
