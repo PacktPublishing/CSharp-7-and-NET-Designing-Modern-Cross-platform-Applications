@@ -26,3 +26,7 @@ By the end of C# 7 and .NET: Designing Modern Cross-platform Applications, you w
 * Visual Studio Code on Windows 10 or macOS
 * Visual Studio 2015/2017 Community Edition
 * .NET Core
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789956696">https://packt.link/free-ebook/9781789956696 </a> </p>
