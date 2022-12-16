@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781789956696)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # CSharp 7 and .NET Designing Modern Cross-platform Applications
 
 C# is a widely used programming language, thanks to its easy learning curve, versatility, and support for modern paradigms. The language is used to create desktop apps, background services, web apps, and mobile apps. .NET Core is open source and compatible with Mac OS and Linux. There is no limit to what you can achieve with C# and .NET Core.
